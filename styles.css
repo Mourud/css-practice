@@ -1,3 +1,14 @@
-.green {
+div {
   color: greenyellow;
 }
+ span{
+     background-color: indigo;
+ }
+
+ body{
+     background-color: black;
+ }
+
+ .new{
+     color: red;
+ }
