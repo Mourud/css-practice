@@ -1,14 +1,9 @@
-div {
-  color: greenyellow;
+body {
+  color: gray;
+  background-color: rgb(68, 0, 68);
+  border: 3px solid black;
 }
- span{
-     background-color: indigo;
- }
 
- body{
-     background-color: black;
- }
-
- .new{
-     color: red;
- }
+p {
+    background-color: rgb(85, 31, 85);
+}
