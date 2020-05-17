@@ -4,6 +4,17 @@ body {
   border: 3px solid black;
 }
 
-p {
-    background-color: rgb(85, 31, 85);
+#one {
+  color: rgba(148, 17, 153, 0.1);
+}
+#two {
+  color: rgba(148, 17, 153, 0.2);
+}
+
+#three {
+  color: rgba(148, 17, 153, 0.5);
+}
+
+#four {
+  color: rgba(148, 17, 153, 1);
 }
