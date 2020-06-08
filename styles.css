@@ -1,20 +1,23 @@
-body {
-  color: gray;
-  background-color: rgb(68, 0, 68);
-  border: 3px solid black;
+.title{
+  background: #0466C8;
+  height: 10vh;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
 }
 
-#one {
-  color: rgba(148, 17, 153, 0.1);
-}
-#two {
-  color: rgba(148, 17, 153, 0.2);
+.body{
+  background: #001233;
+  height: 90vh;
+
 }
 
-#three {
-  color: rgba(148, 17, 153, 0.5);
-}
+  
 
-#four {
-  color: rgba(148, 17, 153, 1);
+*{
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+
+  color: #edf2f4;;
 }
